@@ -21,7 +21,7 @@ To use the Weather Web App locally, follow these steps:
 
 
 ## Demo
-You can view a live demo of the Weather-App  [click here](https://gibrail404.github.io/Weather-App/).
+You can view a live demo of the Weather-App  [click here](https://nazifansari.github.io/Weather-App/).
 
 
 ## License
